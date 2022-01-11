@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuanaVinhas
-- 👀 I’m interested in learning how to code from the start.
+- 👀 I’m interested in learning how to code from the start and improve my knowledge.
 - 🌱 I’m currently learning JavaScript, Python, HTML, CSS.
 - 💞️ I’m looking to collaborate on any project that offers opportunity for beginners.
 - 📫 How to reach me: luavmuniz@gmail.com
